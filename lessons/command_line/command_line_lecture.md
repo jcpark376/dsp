@@ -69,6 +69,7 @@ This "changes directory" and makes the named directory our new working
 directory. 
 
 > Question: How could we make sure that we moved?
+Answer: do ls again
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
@@ -192,6 +193,7 @@ ls -lh
 ```
 
 > What changed?
+File sizes are more human readable.
 
 If instead copying we just want to change the name of a file, we can do:
 
